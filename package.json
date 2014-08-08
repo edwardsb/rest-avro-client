@@ -1,0 +1,25 @@
+{
+  "name": "rest-avro-client",
+  "version": "0.0.0",
+  "description": "Restful Avro Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edwardsb/rest-avro-client.git"
+  },
+  "keywords": [
+    "avro",
+    "rest",
+    "schema",
+    "repo"
+  ],
+  "author": "Benjamin Edwards",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardsb/rest-avro-client/issues"
+  },
+  "homepage": "https://github.com/edwardsb/rest-avro-client"
+}
